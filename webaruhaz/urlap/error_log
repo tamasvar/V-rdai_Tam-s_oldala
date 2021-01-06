@@ -1,0 +1,2 @@
+[20-Jan-2020 14:20:58 Europe/Budapest] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kreta'@'localhost' (using password: YES) in /home/takinfo/kreta.takinfo-taki.hu/sql_tablazat.php on line 34
+[20-Jan-2020 14:21:19 Europe/Budapest] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kreta'@'localhost' (using password: YES) in /home/takinfo/kreta.takinfo-taki.hu/sql_tablazat.php on line 34
